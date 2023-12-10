@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./img/goodnews_logo.png" width="20%"/>
 </div>
-
+ 
 <br/>
 
 <div align="center">

@@ -847,7 +847,7 @@
 | Typescript + TailWindCss | Gradle 8.3         | MinSDK 30     | MongoDB 7.0.2 | Docker 24                 | Notion  |
 | React 18.2.0             | Lombok             | Java 8        |               | Jenkins                   | Figma   |
 | Recoil                   | Spring Security    | Realm         |               |                           | Swagger |
-| React-query              | JJWT 0.9.1         |               |               |                           | Postman |
+| React-query              | JJWT 0.9.1         | Kotlin        |               |                           | Postman |
 
 <br>
 

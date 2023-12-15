@@ -1,4 +1,3 @@
-<<<<<<< 1d92878115e7aba002802d15a55f7466c78a8775
 // 메인페이지의 제일 처음 부분
 import styled, { keyframes } from "styled-components";
 import { LuMouse } from "react-icons/lu";
@@ -103,15 +102,3 @@ const StyledLuMouse = styled(LuMouse)`
 
   animation: ${blink} 2s infinite;
 `;
-=======
-import styled from "styled-components"
-import Text from "../@common/Text"
-
-//손전등 관련 설명
-const MainIntro = () => {
-    return(
-        <div></div>)
-}
-
-export default MainIntro
->>>>>>> acf98099dfb6dc75ab21eeaba171aca3029e4aba
